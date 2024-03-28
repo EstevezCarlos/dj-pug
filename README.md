@@ -1,2 +1,3 @@
 # DJ Pug
-Collection of Pug mixinst to work with Django
+![DJ Pug logo](djpug.webp)
+Collection of Pug mixins to work with Django

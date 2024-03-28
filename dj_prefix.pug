@@ -1,0 +1,14 @@
+mixin dj_extends(path)
+    | {% extends %}
+
+
+mixin dj_if(condition)
+    | {% if #{condition} %}
+
+mixin dj_else
+    
+    if block
+        {% else %}
+        block
+    | {% endif %}
+
