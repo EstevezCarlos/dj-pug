@@ -5,6 +5,7 @@
     ```
 
 ## Not cool
+- **_Autoescape_** - Dunno
 - **_Block_** - Extendable part of template
     ```django
     {% block biggus %} {% endblock %}
@@ -30,3 +31,5 @@
     {% elifif %}
     {% endif %}
     ```
+
+- **_form_**
